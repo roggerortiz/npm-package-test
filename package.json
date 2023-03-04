@@ -15,6 +15,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "test": "jest --config jestconfig.json",
+    "changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
     "prepare": "husky install && npm run build",
     "prepublishOnly": "npm test && npm run lint:fix && npm run lint"
   },
