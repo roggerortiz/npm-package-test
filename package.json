@@ -1,5 +1,5 @@
 {
-  "name": "npm-publish-package-test",
+  "name": "rogger-test",
   "version": "0.0.3",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -31,7 +31,7 @@
   "keywords": [
     "react",
     "typescript",
-    "npm-publish-package-test"
+    "rogger-test"
   ],
   "author": "Rogger Ortiz <rogger.ortiz.br@gmail.com> (https://github.com/roggerortiz)",
   "license": "ISC",
