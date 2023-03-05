@@ -6,7 +6,7 @@
   "types": "./dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gapon2401/my-react-typescript-package.git"
+    "url": "git+https://github.com/roggerortiz/npm-package-test.git"
   },
   "scripts": {
     "build": "pnpm build:cls && pnpm build:esm && pnpm build:cjs",
